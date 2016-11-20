@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  font-size: 10pt;
+  font-color: #424242h;
+}
+
+a {
+  margin: 5px;
+}
+
+a:link {
+  color: grey;
+  -webkit-text-decoration-line: none;
+  -ms-text-decoration-line: none;
+  -moz-text-decoration-line: none;
+  text-decoration-line: none;
+}
+
+a:hover {
+  -moz-text-decoration-line: underline;
+  -webkit-text-decoration-line: underline;
+  -ms-text-decoration-line: underline;
+  text-decoration-line: underline;
+}
+
+header{
+  position: absolute;
+  right: 10px;
+}
+
+.main {
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+.signin{
+  background-color: #4285F4;
+  color:white;
+  padding: 4px;
+  radius: 3px;
+}
+
+.grid:hover{
+
+}
+
+footer{
+  min-width: 800px;
+  position: absolute;
+  bottom: 10px;
+  background-color: grey;
+  border-top: black;
+  border-width: 1px;
+}
