@@ -7,3 +7,4 @@ Things I have learned:
 	-Even the Google homepage appears slightly different to when loading in Firefox vs. Chrome
 	-Sometimes text colour/styles can be surprisingly inconvenient to manipulate when dealing with links. At least for a novice. :)
 	-Google itself is a godsend. I found a very nice resource that breaks down how to layout webpages with CSS that I found to be very helpful and can see myself coming back to again and again - [Learn Layout](http://learnlayout.com/)
+	-I was being lazy and tried to "upload" files via the github website instead of using Bash and the files were combined in a broken and unexpected way, so after some Googling I learned about the git revert command.  
