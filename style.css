@@ -1,0 +1,96 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: 10pt;
+  font-color: #424242h;
+}
+
+a {
+  margin: 8px;
+}
+
+a:link {
+  color: black;
+  -webkit-text-decoration-line: none;
+  -ms-text-decoration-line: none;
+  -moz-text-decoration-line: none;
+  text-decoration-line: none;
+}
+
+a:hover {
+  -moz-text-decoration-line: underline;
+  -webkit-text-decoration-line: underline;
+  -ms-text-decoration-line: underline;
+  text-decoration-line: underline;
+}
+
+header{
+  position: absolute;
+  align-items: center;
+  right: 30px;
+  top: 10px;
+}
+
+.main {
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+.Canada{
+    color: #4285F4;
+    position:absolute;
+    top: 60px;
+    right: 12px;
+}
+
+.signin{
+  background-color: #4285F4;
+  color:white;
+  padding: 7px;
+  padding-left: 13px;
+  padding-right: 13px;
+  border-radius: 2px;
+}
+
+.grid{
+  position: relative;
+  top: 8px;
+  margin-right:8px;
+}
+.grid:hover{
+
+}
+
+footer{
+  width: 100%;
+  position: absolute;
+  left:0px;
+  bottom: 0px;
+  background-color: #f2f2f2;
+  border-style: solid;
+  border-color: #e4e4e4;
+  border-width: 1px;
+  height:42px;
+
+}
+
+.links-left{
+  position: absolute;
+  left:25px;
+  top: 10px;
+  color: #737373;
+}
+
+.links-right{
+  position: absolute;
+  right:25px;
+  top: 10px;
+  text-color: #737373;
+}
